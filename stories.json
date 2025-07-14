@@ -1,0 +1,26 @@
+[
+  {
+    "id": "clockwork-sparrow",
+    "title": "The Clockwork Sparrow",
+    "subtitle": "A Victorian inventor finds a message from the future.",
+    "thumbnailUrl": "https://placehold.co/600x350/5D6D7E/ffffff?text=Clockwork+Sparrow",
+    "foreword": "This story explores the delicate balance between fate and free will, inspired by a peculiar antique clock.",
+    "storyText": "In the bustling heart of Victorian London, Master Elias Thorne, a horologist of eccentric genius, completed his latest marvel: a life-sized clockwork sparrow. Its feathers shimmered with polished brass, and its eyes, tiny rubies, held an uncanny glint. Elias wound its delicate mechanism, expecting a chirp, a flutter. Instead, a faint, metallic whisper emanated from its beak, a voice not of gears and springs, but of static and a distant, desperate plea. 'The Convergence... prevent... the temporal cascade...' Elias, a man of logic and precision, felt a shiver that had nothing to do with the damp London air. The sparrow began to glow, its brass plumage humming with an unseen energy, and a single, crystalline tear, impossibly warm, rolled from its ruby eye. He knew, with a certainty that defied all reason, that his latest invention had just delivered a message not from his workshop, but from a future teetering on the brink of collapse."
+  },
+  {
+    "id": "neon-rain-ancient-streets",
+    "title": "Neon Rain, Ancient Streets",
+    "subtitle": "A cyberpunk detective uncovers an ancient Roman secret.",
+    "thumbnailUrl": "https://placehold.co/600x350/6C5B7B/ffffff?text=Neon+Rain",
+    "foreword": "This neo-noir tale delves into the echoes of history found in a futuristic metropolis, where ancient secrets refuse to stay buried.",
+    "storyText": "The neon signs of Neo-Rome dripped across the rain-slicked cobblestones, reflecting a dizzying kaleidoscope of corporate logos and illicit data streams. Kaelen, a synth-enhanced private eye, pulled his trench coat tighter, the collar bristling with hidden sensors. His latest case: a missing data-broker, last seen near the ruins of the Colosseum, now a skeletal shell against the hyper-modern skyline. As he navigated the ancient aqueducts, repurposed as glowing data conduits, Kaelen stumbled upon a hidden chamber beneath the old Forum. It wasn't a forgotten server farm, but a perfectly preserved Roman villa, untouched by centuries of urban sprawl. On a marble table, a holographic projection flickered, depicting a toga-clad figure manipulating intricate, glowing symbols – symbols identical to the data-broker's last known encrypted message. The rain outside intensified, a symphony of liquid light, as Kaelen realized the true nature of the 'data-broker' and the 'missing' information: a time-traveling conspiracy woven into the very fabric of Rome, from its ancient foundations to its dazzling, dystopian future."
+  },
+  {
+    "id": "whispering-library",
+    "title": "The Whispering Library",
+    "subtitle": "Books from every era share secrets in a library outside time.",
+    "thumbnailUrl": "https://placehold.co/600x350/4CAF50/ffffff?text=Whispering+Library",
+    "foreword": "A journey into a timeless archive, where every book holds a universe of possibilities and forgotten histories.",
+    "storyText": "Elara found the library by accident, stepping through a shimmering archway that appeared in a forgotten alley. Inside, shelves stretched into an impossible infinity, filled with books bound in everything from ancient papyrus to shimmering, malleable alloys. There were no librarians, only a soft, pervasive hum – the collective murmur of countless voices. Each book, when touched, would whisper its contents directly into her mind, a symphony of narratives from every conceivable era. A leather-bound tome from the 18th century recounted a duel fought with words, while a crystal tablet from the 30th detailed the ethics of sentient AI. As she wandered deeper, a particular section pulsed with a faint, melancholic light. Here, books from timelines that never fully came to be hummed with unfulfilled potential. A diary from a world where magic triumphed over science, a history text from a reality where dinosaurs never died out. Elara realized this wasn't just a library; it was a nexus, a repository of every possible past, present, and future, each story a fragile echo in the vast, whispering silence."
+  }
+]
